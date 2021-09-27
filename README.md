@@ -1,4 +1,4 @@
-## Hi every one, i'm Leonardo Monteiro!
+## Hi every one, I'm Leonardo Monteiro!
 
 
 - 🔭 I’m currently working with NodeJs, NestJs and TypeScript.
